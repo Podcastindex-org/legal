@@ -4,6 +4,10 @@ v1.0: April 28th, 2022
 This Privacy Policy is meant to help you understand what data we collect, why we collect
 it, and what we do with it. We’re Podcast Index, LLC.
 
+
+<br><br><!-- Section spacer -->
+
+
 ## Information we collect
 
 ### Our websites, at *.podcastindex.org and podcasterwallet.com
@@ -33,6 +37,10 @@ We cache elements of our website using CloudFlare.
   other personal information. These are published by the podcasters directly, normally
   through their podcast host. We do not process or retain email addresses from RSS feeds.
 
+
+<br><br><!-- Section spacer -->
+
+
 ### For developers: the Podcast Index API at api.podcastindex.org
 
 In addition to the above, we collect information from developers with their informed
@@ -48,6 +56,10 @@ Upon logging in, we use cookies to identify you to us.
 
 This information is held in servers located in the US.
 
+
+<br><br><!-- Section spacer -->
+
+
 ## PodcasterWallet, at podcasterwallet.com
 
 In addition to our normal website collection, above, we collect information from users
@@ -62,6 +74,10 @@ that sign up for an account on podcasterwallet.com. This information includes:
   malicious or fraudulent account creation.
   [This is their privacy policy](https://www.hcaptcha.com/privacy).
 
+
+<br><br><!-- Section spacer -->
+
+
 ## What we don’t use and/or collect
 
 We do not collect or store any personally identifiable information beyond the email
@@ -70,10 +86,18 @@ address that is used to sign up for an account.
 We do not use third-party cookies or third-party page analytics beyond CloudFlare’s
 native analytics as part of caching.
 
+
+<br><br><!-- Section spacer -->
+
+
 ## How we use information we collect
 
 We use the information we collect from all of our services to provide, maintain, protect
 and improve them.
+
+
+<br><br><!-- Section spacer -->
+
 
 ## Will we share information we collect?
 
@@ -90,9 +114,17 @@ We may share information we collect with third parties as described in this belo
   order; enforce or apply our Terms of Service and other agreements; or protect the
   rights, property, or safety of Podcast Index, our users, developers or others.
 
+
+<br><br><!-- Section spacer -->
+
+
 ## How can I manage or delete information about me?
 We will fully, and unrecoverably, erase user accounts upon request. Submit the deletion
 request to: delete@podcastindex.org
+
+
+<br><br><!-- Section spacer -->
+
 
 ## Changes
 Our Privacy Policy may change from time to time. We will not reduce your rights under
