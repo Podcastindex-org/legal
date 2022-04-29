@@ -1,18 +1,19 @@
-# Terms of Service <small>v1.1: March 2, 2021</small>
+# Terms of Service
+<small>v1.1: March 2, 2021</small>
 
-Thank  you  for  using  Podcast  Index's  APIs,  websites,  other  developer  services,  and
-associated  software  (collectively,  "APIs").  By  accessing  or  using  our  APIs,  you  are
+Thank you for using Podcast Index's APIs, websites, other developer services, and
+associated software (collectively, "APIs"). By accessing or using our APIs, you are
 agreeing to the terms below. If there is a conflict between these terms and additional terms
-applicable  to  a  given  API,  the  additional  terms  will  control  for  that  conflict.
-Collectively,  we  refer  to  the  terms  below,  any  additional  terms,  terms  within  the
-accompanying  API  documentation,  and  any  applicable  policies  and  guidelines  as  the
+applicable to a given API, the additional terms will control for that conflict.
+Collectively, we refer to the terms below, any additional terms, terms within the
+accompanying API documentation, and any applicable policies and guidelines as the
 "Terms." You agree to comply with the Terms and that the Terms control your relationship with us.
 So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction
 with other Podcast Index products or services, then the terms for those other products or services
 also apply.
 
-Under  the  Terms,  "Podcast  Index"  means  Podcast  Index  LLC,  a  Washington  limited liability
-company  at  PO  Box  1364  Port  Townsend  Washington  98368,  United  States, unless set forth
+Under the Terms, "Podcast Index" means Podcast Index LLC, a Washington limited liability
+company at PO Box 1364 Port Townsend Washington 98368, United States, unless set forth
 otherwise in additional terms applicable for a given API. We may refer to "Podcast Index" as "we",
 "our", or "us" in the Terms.
 
@@ -213,14 +214,14 @@ otherwise in additional terms applicable for a given API. We may refer to "Podca
     you will not, and will not permit your end users or others acting on your behalf to, do the following
     with content returned from the APIs:
 
-  1. Scrape, build databases, or otherwise create permanent copies of such content, or keep cached
-      copies longer than permitted by the cache header;
-  2. Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute,
-      publicly display, or sublicense to any third-party;
-  3. Misrepresent the source or ownership; or
-  4. Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or
-      falsify or delete any author attributions, legal notices, or other labels of the origin or source
-      of material.
+    1. Scrape, build databases, or otherwise create permanent copies of such content, or keep cached
+       copies longer than permitted by the cache header;
+    2. Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute,
+       publicly display, or sublicense to any third-party;
+    3. Misrepresent the source or ownership; or
+    4. Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or
+       falsify or delete any author attributions, legal notices, or other labels of the origin or source
+       of material.
 
 <br><br><!-- Section spacer -->
 
@@ -237,12 +238,12 @@ otherwise in additional terms applicable for a given API. We may refer to "Podca
 2. **Podcast Index Standard Guidelines** - Podcast Index recommends, but does not mandate, that Value for 
     Value Platforms implement the following guidelines ("Podcast Index Standard Guidelines"):
 
-  1. Use the following revenue split for payments made: 1% to the API Client developer, 1% to
-      the Podcast Index, and 98% to the Podcast ("Standard Revenue Split");
-  2. Split and send payments to all parties in real time;
-  3. Use a verifiable open log / ledger showing all payments in and all payments out; and
-  4. Use well-established cryptocurrencies with verifiable blockchain
-      technology.
+    1. Use the following revenue split for payments made: 1% to the API Client developer, 1% to
+       the Podcast Index, and 98% to the Podcast ("Standard Revenue Split");
+    2. Split and send payments to all parties in real time;
+    3. Use a verifiable open log / ledger showing all payments in and all payments out; and
+    4. Use well-established cryptocurrencies with verifiable blockchain
+       technology.
 
 
 3. **No Control over Value for Value Platforms** - Podcast Index is not involved in any of the
@@ -402,11 +403,11 @@ Section 8: Privacy and Copyright Protection
     legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent
     arising from:
 
-  1. Your misuse or your end user's misuse of the APIs;
-  2. Your violation or your end user's violation of the Terms;
-  3. Any content or data routed into or used with the APIs by you, those acting on your behalf, or
-      your end users; or
-  4. Any of you or your end user's negligence, gross negligent, or willful actions or inactions.
+    1. Your misuse or your end user's misuse of the APIs;
+    2. Your violation or your end user's violation of the Terms;
+    3. Any content or data routed into or used with the APIs by you, those acting on your behalf, or
+       your end users; or
+    4. Any of you or your end user's negligence, gross negligent, or willful actions or inactions.
 
 <br><br><!-- Section spacer -->
 
