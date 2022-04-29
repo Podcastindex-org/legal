@@ -1,7 +1,7 @@
 # Terms of Service
 <small>v1.1 - March 2, 2021</small>
 
-<br><br><!-- Section spacer -->
+<br><!-- Section spacer -->
 
 Thank you for using Podcast Index's APIs, websites, other developer services, and
 associated software (collectively, "APIs"). By accessing or using our APIs, you are
