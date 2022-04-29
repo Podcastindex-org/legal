@@ -111,8 +111,8 @@ otherwise in additional terms applicable for a given API. We may refer to "Podca
 ## Section 3: Your API Clients
 
 1. **API Clients and Monitoring** - The APIs are designed to help you enhance your websites and applications ("API
-    Client(s)"). YOU AGREE THAT PODCAST INDEX MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE
-    PODCAST INDEX PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE TERMS. This monitoring may include 
+    Client(s)"). You agree that Podcast Index may monitor use of the APIs to ensure quality, improve
+    Podcast Index products and services, and verify your compliance with the terms. This monitoring may include
     Podcast Index accessing and using your API Client, for example to identify security issues that could affect 
     Podcast Index or its users. You will not interfere with this monitoring. Podcast Index may use any technical means
     to overcome such interference. Podcast Index may suspend access to the APIs by you or your API
