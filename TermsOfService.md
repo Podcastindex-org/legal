@@ -1,5 +1,4 @@
-# Terms of Service
-v1.1: March 2, 2021
+# Terms of Service <small>v1.1: March 2, 2021</small>
 
 Thank  you  for  using  Podcast  Index's  APIs,  websites,  other  developer  services,  and
 associated  software  (collectively,  "APIs").  By  accessing  or  using  our  APIs,  you  are
@@ -137,44 +136,44 @@ otherwise in additional terms applicable for a given API. We may refer to "Podca
 
 <br><br><!-- Section spacer -->
 
-Section 4: Prohibitions and Confidentiality
+## Section 4: Prohibitions and Confidentiality
 
 1. **API Prohibitions** - When using the APIs, you may not (or allow those acting on your behalf to):
 
-  1.  Sublicense an API for use by a third-party. Consequently, you will not create an API Client
-       that functions substantially the same as the APIs and offer it for use by third parties.
-  2.  Perform an action with the intent of introducing to Podcast Index products and services any
-       viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
-  3.  Defame, abuse, harass, stalk, or threaten others.
-  4.  Interfere with or disrupt the APIs or the servers or networks providing the APIs.
-  5.  Promote or facilitate unlawful online gambling or disruptive commercial messages or
-       advertisements.
-  6.  Reverse engineer or attempt to extract the source code from any API or any
-       related software, except to the extent that this restriction is expressly prohibited by applicable
-       law.
-  7.  Use the APIs for any activities where the use or failure of the APIs could lead to death,
-       personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic
-       control, or life support systems).
-  8.  Use the APIs to process or store any data that is subject to the International Traffic in Arms
-       Regulations maintained by the U.S. Department of State.
-  9.  Remove, obscure, or alter any Podcast Index terms of service or any links to or notices of
-       those terms.
+  1. Sublicense an API for use by a third-party. Consequently, you will not create an API Client
+      that functions substantially the same as the APIs and offer it for use by third parties.
+  2. Perform an action with the intent of introducing to Podcast Index products and services any
+      viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
+  3. Defame, abuse, harass, stalk, or threaten others.
+  4. Interfere with or disrupt the APIs or the servers or networks providing the APIs.
+  5. Promote or facilitate unlawful online gambling or disruptive commercial messages or
+      advertisements.
+  6. Reverse engineer or attempt to extract the source code from any API or any
+      related software, except to the extent that this restriction is expressly prohibited by applicable
+      law.
+  7. Use the APIs for any activities where the use or failure of the APIs could lead to death,
+      personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic
+      control, or life support systems).
+  8. Use the APIs to process or store any data that is subject to the International Traffic in Arms
+      Regulations maintained by the U.S. Department of State.
+  9. Remove, obscure, or alter any Podcast Index terms of service or any links to or notices of
+      those terms.
 
 2. **Confidential Matters**
 
-  1.  Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you
-       and identify your API Client. You will keep your credentials confidential and make
-       reasonable efforts to prevent and discourage other API Clients from using your
-       credentials. Developer credentials may not be embedded in open source projects.
-  2.  Our communications to you and our APIs may contain Podcast Index confidential
-       information. Podcast Index confidential information includes any materials,
-       communications, and information that are marked confidential or that would normally be considered
-       confidential under the circumstances. If you receive any such information, then you will not
-       disclose it to any third-party without Podcast Index's prior written consent. Podcast Index
-       confidential information does not include information that was rightfully given to you by a
-       third-party without breaching a confidentiality obligation to Podcast Index. You may
-       disclose Podcast Index confidential information when compelled to do so by law if you provide us
-       reasonable prior notice, unless a court orders that we not receive notice.
+  1. Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you
+      and identify your API Client. You will keep your credentials confidential and make
+      reasonable efforts to prevent and discourage other API Clients from using your
+      credentials. Developer credentials may not be embedded in open source projects.
+  2. Our communications to you and our APIs may contain Podcast Index confidential
+     information. Podcast Index confidential information includes any materials,
+     communications, and information that are marked confidential or that would normally be considered
+     confidential under the circumstances. If you receive any such information, then you will not
+     disclose it to any third-party without Podcast Index's prior written consent. Podcast Index
+     confidential information does not include information that was rightfully given to you by a
+     third-party without breaching a confidentiality obligation to Podcast Index. You may
+     disclose Podcast Index confidential information when compelled to do so by law if you provide us
+     reasonable prior notice, unless a court orders that we not receive notice.
 
 <br><br><!-- Section spacer -->
 
